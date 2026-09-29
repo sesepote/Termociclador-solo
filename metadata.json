@@ -1,0 +1,7 @@
+{
+  "name": "T5000-96 Gradient Thermal Cycler",
+  "description": "Interactive touchscreen thermal cycler interface for programmable PCR protocols with gradient calculation and real-time cycle simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
